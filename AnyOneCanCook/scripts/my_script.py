@@ -3,10 +3,10 @@
 # This adds the directory above to our Python path
 #   This is so that we can add import our custom python module code into this script
 import sys
-sys.path.append('../')
+sys.path.append('my_module')
 
 # Imports
-from my_module.classes import MyCookBook
+from classes import MyCookBook
 from tkinter import *
 ###
 ###
