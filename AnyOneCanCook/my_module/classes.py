@@ -1,5 +1,5 @@
 """Classes used throughout project"""
-from my_module.functions import find_the_match
+from functions import find_the_match
 
 class MyCookBook:
     
