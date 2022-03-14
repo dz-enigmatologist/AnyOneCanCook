@@ -26,4 +26,8 @@ The project files are organized as shown:
            |----test_find_the_match()
            
 How to run the project?
-python scripts.py
+Download the zip file os AnyOneCanCook from github
+Ensure you have python 3.8
+(tkinter module needs to be available)
+cd scripts
+python my_script.py
