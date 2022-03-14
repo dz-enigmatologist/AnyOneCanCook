@@ -1,5 +1,6 @@
 """Classes used throughout project"""
 from functions import find_the_match
+from tkinter import *
 
 class MyCookBook:
     
@@ -114,4 +115,4 @@ class MyCookBook:
         
         # Enables exit button to stop running code
         
-        window.destroy()
+        exit(0)
