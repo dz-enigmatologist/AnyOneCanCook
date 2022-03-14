@@ -1,3 +1,0 @@
-# If your project has any requirements not included in anaconda, include them here
-
-This project opens a window, I am not able to run this on datahub and see the window open on my mac . When the DISPLAY variable is set to the ip address of my mac, it doesn't run from the terminal on jupyter notebook. I am able to run my code on my mac's terminal and pycharm, it works fine. If you can download the files, from github, to your local computer you should be able to run the application there. It was coded on Mac so the window checkbox and button and text might be a little miss aligned on windows.
